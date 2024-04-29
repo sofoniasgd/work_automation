@@ -1,5 +1,5 @@
 # work_automation
-![pyhton logo]([[data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIAMAAzAMBEQACEQEDEQH/xAAbAAADAAMBAQAAAAAAAAAAAAAAAQIEBQcGA//EAEYQAAIBAwECBg4JAQcFAAAAAAABAgMEEQUGIRIxQVFx0QcTFBcyM1JVYYGRkqGxIzZTVHJzdLLBIjRCQ2LC8PEWJSY1Y//EABsBAQEAAwEBAQAAAAAAAAAAAAABAgQFAwYH/8QANBEBAAIBAgIJAgMIAwAAAAAAAAECAwQRFFEFEhMhjnxRlxzSfVlS3VndoqsJU5OElvR8dlx2xXmlo74dKsxaN4SeTMskUsmITZFSRSIoINhY6jGlTVKtnC4pLk6Tu9H9KxipGPL4R4T+jTzabrT1qsmrqdGMPo8zlyLBu5umcFa/sd8/yeNdLeZ7+5p6tSVWo5y428s+Zy5bZbze3jLoVrFY2hstHtnvrzXogd3oXSzvOe0faP1lp6rL+CP4tufRNIAAAAAAAB//Z](https://www.python.org/static/img/psf-logo.png)](https://www.python.org/static/community_logos/python-logo.png))
+![pyhton logo](https://www.python.org/static/community_logos/python-logo.png)
 ![jupyter notebook](https://jupyter.org/assets/homepage/main-logo.svg)
 
 here's apps and code i used at my job to automate some things and make my job a bit more interesting
