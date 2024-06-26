@@ -1,4 +1,4 @@
-# work_automation
+# WORK AUTOMATION
 ![pyhton logo](https://www.python.org/static/community_logos/python-logo-generic.svg)
 ![jupyter notebook](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/207px-Jupyter_logo.svg.png)
 
